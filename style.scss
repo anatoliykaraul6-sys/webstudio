@@ -1,0 +1,12 @@
+
+.main {
+    background-image: url("../images/webstudio1.png");
+    background-size: cover;
+    background-position: center;
+}
+
+@media (min-resolution: 2dppx) {
+    .hero {
+        background-image: url("../images/webstudio1@2x.png");
+    }
+}
